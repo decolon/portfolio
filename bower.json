@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "description": "***This will be my personal portfolio***",
+  "main": "index.js",
+  "authors": [
+    "Dan Colon <decolon13@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/decolon/portfolio",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
